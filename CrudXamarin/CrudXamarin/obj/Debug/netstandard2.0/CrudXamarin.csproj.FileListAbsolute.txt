@@ -1,0 +1,14 @@
+C:\Users\CDS2UNIVO23\source\repos\CrudXamarin\CrudXamarin\CrudXamarin\bin\Debug\netstandard2.0\CrudXamarin.deps.json
+C:\Users\CDS2UNIVO23\source\repos\CrudXamarin\CrudXamarin\CrudXamarin\bin\Debug\netstandard2.0\CrudXamarin.dll
+C:\Users\CDS2UNIVO23\source\repos\CrudXamarin\CrudXamarin\CrudXamarin\bin\Debug\netstandard2.0\CrudXamarin.pdb
+C:\Users\CDS2UNIVO23\source\repos\CrudXamarin\CrudXamarin\CrudXamarin\obj\Debug\netstandard2.0\CrudXamarin.csprojAssemblyReference.cache
+C:\Users\CDS2UNIVO23\source\repos\CrudXamarin\CrudXamarin\CrudXamarin\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\CDS2UNIVO23\source\repos\CrudXamarin\CrudXamarin\CrudXamarin\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\CDS2UNIVO23\source\repos\CrudXamarin\CrudXamarin\CrudXamarin\obj\Debug\netstandard2.0\CrudXamarin.csproj.CoreCompileInputs.cache
+C:\Users\CDS2UNIVO23\source\repos\CrudXamarin\CrudXamarin\CrudXamarin\obj\Debug\netstandard2.0\CrudXamarin.AssemblyInfoInputs.cache
+C:\Users\CDS2UNIVO23\source\repos\CrudXamarin\CrudXamarin\CrudXamarin\obj\Debug\netstandard2.0\CrudXamarin.AssemblyInfo.cs
+C:\Users\CDS2UNIVO23\source\repos\CrudXamarin\CrudXamarin\CrudXamarin\obj\Debug\netstandard2.0\CrudXamarin.dll
+C:\Users\CDS2UNIVO23\source\repos\CrudXamarin\CrudXamarin\CrudXamarin\obj\Debug\netstandard2.0\CrudXamarin.pdb
+C:\Users\CDS2UNIVO23\source\repos\CrudXamarin\CrudXamarin\CrudXamarin\obj\Debug\netstandard2.0\Vista\Lista_Contenido.xaml.g.cs
+C:\Users\CDS2UNIVO23\source\repos\CrudXamarin\CrudXamarin\CrudXamarin\obj\Debug\netstandard2.0\Vista\Operaciones_CRUD.xaml.g.cs
+C:\Users\CDS2UNIVO23\source\repos\CrudXamarin\CrudXamarin\CrudXamarin\obj\Debug\netstandard2.0\XamlC.stamp
